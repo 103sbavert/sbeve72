@@ -2,7 +2,7 @@
 
 Greetings to everyone visiting my page!
 
-<img src="images/Me.png" alt="A photo of Me" width=200 height=200 />
+<img src="images/Me.jpg" alt="A photo of Me" width=200 height=200 />
 
 This is me Yusuf Jamal. I am Computer (Science and) Engineering student from Delhi, India and this is my Github profile.
 
